@@ -1,6 +1,6 @@
 # 📚 Clean Code: A Handbook of Agile Software Craftsmanship
 
-Author: https://en.wikipedia.org/wiki/Robert_C._Martin
+✍️ Author: https://en.wikipedia.org/wiki/Robert_C._Martin
 
 ## Must read
 
