@@ -1,5 +1,7 @@
 # 📚 Clean Code: A Handbook of Agile Software Craftsmanship
 
+Author: https://en.wikipedia.org/wiki/Robert_C._Martin
+
 ## Must read
 
 "Clean Code: A Handbook of Agile Software Craftsmanship" by **Robert C. Martin** is a must-read for every software engineer dedicated to writing high-quality code. This book emphasizes principles, patterns, and best practices that help create readable, efficient, and maintainable software, fostering a mindset of continuous improvement and professional growth.
